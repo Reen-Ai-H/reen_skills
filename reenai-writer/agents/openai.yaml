@@ -1,0 +1,4 @@
+interface:
+  display_name: "ReenAI Writer"
+  short_description: "将真实想法写成兼具个人判断、情绪温度与行动价值的中文内容"
+  default_prompt: "Use $reenai-writer to turn my material into two honest, personal Chinese article drafts with image planning."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "家教工作台"
+  short_description: "用本地教辅与真实经验完成家教备课、反馈和复盘。"
+  default_prompt: "使用家教工作台，根据我的学生情况和本地知识库生成本节课的学生讲义、教师备课提纲和家长反馈。"
