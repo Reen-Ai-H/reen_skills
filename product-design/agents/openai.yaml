@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Design Lifecycle"
+  short_description: "Interview, design, build, audit, and ship products"
+  default_prompt: "Use $product-design to lead this product from interview through documented decisions, three visual worlds, implementation, independent audit, evaluation, and release."

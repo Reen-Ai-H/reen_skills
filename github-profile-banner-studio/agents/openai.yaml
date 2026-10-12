@@ -1,0 +1,5 @@
+interface:
+  display_name: "GitHub Profile Banner Studio"
+  short_description: "Design identity-safe GitHub profile banners"
+  brand_color: "#F27A9B"
+  default_prompt: "Use $github-profile-banner-studio to design a wide GitHub profile banner from my portrait and visual references."

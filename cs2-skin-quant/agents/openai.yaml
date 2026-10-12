@@ -1,0 +1,4 @@
+interface:
+  display_name: "CS2 饰品量化助手"
+  short_description: "接入CSQAQ/C5并识别网页行情，计算净值后生成严格风控的人工操作单"
+  default_prompt: "Use $cs2-skin-quant to scan current CS2 skin opportunities from official APIs and browser-visible markets, then produce a risk-controlled manual trade plan."
