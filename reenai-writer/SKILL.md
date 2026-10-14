@@ -17,7 +17,7 @@ description: 为 ReenAI 写作、改稿与跨平台改编个人中文内容，�
 - 新写或跨平台改编，读取 [形式与交付](references/formats.md) 中对应部分。
 - 改稿，保留作者有效表达，只改请求范围；局部改句不启动整篇写作流程。需要调整形式时再读 formats.md。
 - 讨论选题或结构，读取 [选题方法](references/content-methodology.md)，交讨论结果，不擅自出全文。
-- 大幅重写、风格校准或处理「废话多」，另读 [MacWin 改稿对照](references/edit-calibration.md)。
+- 大幅重写、风格校准或处理「废话多」，另读 [MacWin 改稿对照](references/edit-calibration.md)。个人观察类文章同时读取 [2026-10-14 创业文章认可范例](references/approved-2026-10-14.md)，以用户认可的最终版和明确反馈校准，不沿用被否定的旧版。
 
 用途和主线足够清楚就推进。只有缺失信息会改变立场、关键亲历或成品形式时，问一个最有价值的问题；用户要求不追问时采用可行的最小假设。无需固定访谈和提纲审批。
 
