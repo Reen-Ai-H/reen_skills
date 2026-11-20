@@ -1,4 +1,4 @@
 interface:
   display_name: "ReenAI Writer"
-  short_description: "把真实想法写成精炼的公众号、视频口播、小红书或随笔，保留个人判断"
-  default_prompt: "用 $reenai-writer 把我的材料写成适合当前用途的一份中文稿，保留我的判断与语气，删掉无关和重复内容。"
+  short_description: "用 Reen 的声音写作、改稿和跨平台改编，并随每次反馈迭代风格"
+  default_prompt: "用 $reenai-writer 把我的材料写成适合当前用途的一份中文稿，保留我的判断和语气，顺手记下这次的反馈。"

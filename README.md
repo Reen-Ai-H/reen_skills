@@ -16,11 +16,10 @@
 | `frontend-design` | 设计有辨识度的网页与 App 界面 |
 | `grilling` | 逐个问题澄清想法和决策 |
 | `hv-analysis` | 用横纵分析法完成深度研究并生成 PDF |
-| `khazix-writer` | 公众号长文写作工作流 |
 | `leader` | 将目标拆成可执行的 Agent 任务书 |
 | `neat-freak` | 同步项目代码、文档、规则和记忆 |
 | `prototype` | 快速验证 UI 或逻辑原型 |
-| `reenai-writer` | 个人中文写作和风格校准 |
+| `reenai-writer` | 个人写作风格 Skill，写作、改稿、改编，并随反馈持续迭代 |
 | `tutor-workbench` | 本地优先的家教备课与教学资料工作流 |
 | `writing-fragments` | 从原始素材中挖掘写作片段 |
 | `writing-shape` | 将素材逐段组织成文章 |
@@ -45,11 +44,10 @@ npx skills add Reen-Ai-H/reen_skills --skill '*' --agent codex
 
 特别注意：
 
-- `khazix-writer` 包含特定作者风格工作流，不应冒充原作者或用于未经授权的商业模仿。
 - `tutor-workbench` 是本地优先的教学工作流，使用前应替换为自己的资料路径和知识库。
 - `aihot` 依赖其文档中说明的匿名只读 API 约定。
 - `frontend-design` 的许可条款以其目录中的 `LICENSE.txt` 为准。
 
 本仓库不包含 Codex 系统自带的 `imagegen`、`openai-docs`、`skill-creator`、`skill-installer` 等系统 Skill，也不包含由插件安装和管理的 Skill。
 
-同步日期：2026-10-12。当前包含 18 个本地个人 Skill，保留配套 references、scripts、assets、agents 和测试资料；不包含运行缓存和本地凭据。
+同步日期：2026-10-12。当前包含 17 个本地个人 Skill，保留配套 references、scripts、assets、agents 和测试资料；不包含运行缓存和本地凭据。

@@ -1,0 +1,35 @@
+# scripts/check.py 读取的自检词表。每行一条，格式「类型 内容」，# 开头是注释。
+# punct 标点，word 词语，regex 正则。命中只是提醒，看语境决定改不改。
+
+punct ：
+punct ——
+punct “
+punct ”
+
+word 我觉得
+word 首先
+word 其次
+word 综上所述
+word 总的来说
+word 值得注意的是
+word 不难发现
+word 让我们来看看
+word 接下来让我们
+word 说白了
+word 意味着什么
+word 这意味着
+word 本质上
+word 换句话说
+word 不可否认
+word 在当今
+word 随着技术的
+word 赋能
+word 底层逻辑
+word 闭环
+word 抓手
+word 某个模型
+word AI 工具
+
+regex 不是[^。！？\n]{1,30}而是
+regex 看似[^。！？\n]{1,30}实则
+regex 与其说[^。！？\n]{1,30}不如说
